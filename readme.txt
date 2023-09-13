@@ -8,4 +8,4 @@ reset ssh key passphrase
 
 test push
 
-测试冲突
+Test git clone

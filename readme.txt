@@ -7,3 +7,5 @@ Git is free software distributed under the GPL.
 reset ssh key passphrase
 
 test push
+
+测试冲突

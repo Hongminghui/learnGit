@@ -16,3 +16,5 @@ branch test
 
 Creating a new branch is simple
 Creating a new branch feature1
+
+测试分支合并
